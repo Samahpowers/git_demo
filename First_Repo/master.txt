@@ -4,3 +4,5 @@ steps:
 	2 to create a dir use cm mkdir dirname
 	3 to create a fiile navigate to the right folder and use cl touch name cof the file
 	4 to open a file you can use cl e.g notepad and the name of the file
+
+You  can still make more changes on the file and it will be tracked
