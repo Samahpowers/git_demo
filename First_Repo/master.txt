@@ -14,3 +14,7 @@ Steps:
 
 The command for pushing for the first time in cl is
 	git push -u origin master(i.e master branch)
+
+Creating an SSH key to connect to the sever(for private and public)
+steps:
+	1. ssh-keygen -t rsa -C email
