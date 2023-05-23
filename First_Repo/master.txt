@@ -11,3 +11,6 @@ Pudhing a file to the server
 Steps:
 	1. Go to the server and create a new repository with the same name as in the local repository
 	2. A command will be provide to link remote and local repository to push the file thereof
+
+The command for pushing for the first time in cl is
+	git push -u origin master(i.e master branch)
