@@ -6,3 +6,8 @@ steps:
 	4 to open a file you can use cl e.g notepad and the name of the file
 
 You  can still make more changes on the file and it will be tracked
+
+Pudhing a file to the server
+Steps:
+	1. Go to the server and create a new repository with the same name as in the local repository
+	2. A command will be provide to link remote and local repository to push the file thereof
